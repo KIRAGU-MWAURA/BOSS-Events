@@ -14,7 +14,7 @@ The aim of the workshops is to teach bioinformatics skills from beginner to adva
 The instructor training program aims to train those interested in becoming trainers. They’ll be taken through best teaching practices and tools, and how to form communities. 
 
 ### 4.Miniprojects
-These will include projects that will allow our participants to practice the skills gained through the workshops and training. They get to put their creativity and knowledge to practice by reproducing works done by other researchers.
+These will include projects that will allow our participants to practice the skills gained through the workshops and training. They get to put their creativity and knowledge to practice by reproducing works done by other researchers. See [this](https://github.com/BioinfoNet/BOSS-miniprojects) page for more information.
 
 ### 5.Conference
 This will be the culmination of the events, with our participants getting to present their work to the members of the communities, participants of all the events, facilitators, and speakers. There will be talks from different speakers, researchers, and partners. 
